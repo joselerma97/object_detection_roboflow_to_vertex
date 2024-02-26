@@ -1,0 +1,1 @@
+{"imageGcsUri": "gs://cloud-ai-platform-4f807e4a-a411-472d-8205-9769f14f21ef/cv/collage_109_jpg.rf.0a96b301f643912160f8766eab834ecc.jpg", "boundingBoxAnnotations": [{"displayName": "plastic", "xMin": 0.16835937500000003, "xMax": 0.350390625, "yMin": 0.016015625000000006, "yMax": 0.433984375}], "dataItemResourceLabels": {"aiplatform.googleapis.com/ml_use": "training"}}
